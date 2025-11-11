@@ -1,2 +1,2 @@
 # Vamoa-practicar
-Repositorio para que practiquemos
+Repositorio para que practiquemos Yerania y David
